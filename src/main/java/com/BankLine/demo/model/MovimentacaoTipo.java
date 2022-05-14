@@ -1,5 +1,6 @@
 package com.BankLine.demo.model;
 
-public class MovimentacaoTipo {
-
+public enum MovimentacaoTipo {
+      RECEITA,
+      DESPESA
 }
